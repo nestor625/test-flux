@@ -1,4 +1,0 @@
-git add .
-git commit -m "flux config"
-git push --set-upstream origin master
-git status
